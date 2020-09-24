@@ -12,4 +12,10 @@ this.launchDate = launchDate;
 this.orbitType = orbitType;
 this.operational = operational;
 }
+
+// shouldShowWarning(): boolean;
+// if (this.type.toLowerCase === 'space debris') {
+//     shouldShowWarning = true;
+// }
+
 };
